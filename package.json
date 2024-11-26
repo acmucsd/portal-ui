@@ -103,7 +103,7 @@
     "postcss-less": "^5.0.0",
     "prettier": "^2.0.5",
     "redux-mock-store": "^1.5.3",
-    "stylelint": "^14.2.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^24.0.0",
     "stylelint-order": "^5.0.0",
     "typescript": "^3.8.3"
