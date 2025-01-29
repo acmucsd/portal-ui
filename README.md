@@ -1,3 +1,7 @@
+> [!NOTE]
+>
+> The frontend of the ACM membership portal has been rewritten in Next.js. The original frontend continues to be live at [v1.members.acmucsd.com](https://v1.members.acmucsd.com/) for the foreseeable future. Follow the development of version 2 at [membership-portal-ui-v2](https://github.com/acmucsd/membership-portal-ui-v2/)!
+
 # ACM at UCSD: Membership Portal UI
 
 This is the frontend repository for the ACM at UCSD membership portal. The live portal is viewable at: [https://members.acmucsd.com](https://members.acmucsd.com).
